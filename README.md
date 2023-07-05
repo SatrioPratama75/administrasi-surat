@@ -73,9 +73,9 @@
   <hr>
   <br>
   <li>
-    <h4>Surat Keluar</h4>
-    <p>Pada halaman surat keluar, kami membuat tampilan untuk admin agar bisa mengirim ataupun membalas data surat yang dikirim oleh client/user.</p>
-    <img src="screenshot/Surat-Keluar(admin).png" width="920" height="480"/>
+    <h4>Kirim Surat</h4>
+    <p>Pada halaman kirim surat, kami membuat tampilan untuk user agar bisa mengirim  data surat ke admin.</p>
+    <img src="screenshot/Kirim-Surat(User).png" width="920" height="480"/>
   </li>
   <hr>
   <br>
@@ -85,4 +85,6 @@
   <hr>
   <br>
 </ul>
+
+#Kami menyadari bahwa masih banyak kesalahan pada sistem yang telah kami buat, tetapi kami akan terus berusahan untuk bisa membuat sistem yang lebih baik lagi. Terima kasih.
 
