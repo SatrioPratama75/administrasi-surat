@@ -46,7 +46,6 @@
     <p>Ketika logout diklik, maka akan langsung di tujukan ke halaman login.</p>
   </li>
   <hr>
-  <br>
 </ul>
 <h3>2. User/Client</h3>
 <p>Kami telah membuat halaman user yang dirancang khusus untuk memberikan akses yang aman dan teratur. Setelah melakukan login, user akan diarahkan langsung ke halaman utama(user). Halaman utama ini berfungsi sebagai titik pusat yang menyediakan navigasi yang jelas dan intuitif. Di dalamnya terdapat tautan yang mengarahkan admin ke dua halaman penting, yaitu halaman "Surat Masuk" dan halaman "Kirim Surat.</p>
