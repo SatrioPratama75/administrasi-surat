@@ -82,7 +82,6 @@
     <p>Ketika logout diklik, maka akan langsung di tujukan ke halaman login.</p>
   </li>
   <hr>
-  <br>
 </ul>
 
 # Kami menyadari bahwa masih banyak kesalahan pada sistem yang telah kami buat, tetapi kami akan terus berusahan untuk bisa membuat sistem yang lebih baik lagi. Terima kasih.
