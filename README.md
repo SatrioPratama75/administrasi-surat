@@ -7,6 +7,7 @@
   <li>Ihsan Nurul Alam = Styling Halaman Surat Masuk Pada Sisi Admin</li>
   <li>Rovyansyah = Styling Halaman Surat Keluar Pada Sisi Admin</li>
 </ol>
+Link Youtube (Penggunaan) : https://youtu.be/s-n0qknKWmg
 <hr>
 <h2 align="center">Sistem Administrasi Surat Masuk Dan Surat Keluar</h2>
 <p>Sistem ini memungkinkan client untuk dengan mudah mengirim surat kepada perusahaan melalui halaman "Kirim Surat". Selain itu, admin perusahaan juga memiliki akses ke halaman "Surat Masuk" yang memungkinkan mereka untuk melihat surat-surat yang dikirim oleh client. Dengan fitur ini, admin perusahaan dapat dengan cepat meninjau dan menanggapi surat-surat yang diterima. Selain itu, kami juga telah menyediakan halaman "Surat Keluar" yang memungkinkan admin perusahaan untuk mengirimkan surat balasan kepada client dengan mudah dan efisien</p>
